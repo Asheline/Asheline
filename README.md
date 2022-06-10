@@ -1,10 +1,9 @@
-#Hello everyone! Welcome to my GitHub-profile! :)
+Hello everyone! Welcome to my GitHub-profile! :)
 
-- 👋 Hi, I’m @Asheline
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Asheline, also known as Sofie.
+- 👀 I’m interested in coding, designing, and learning new coding languages.
+- 🌱 I’m currently learning threejs, JavaScript.
+
 
 <!---
 Asheline/Asheline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

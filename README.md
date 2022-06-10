@@ -1,3 +1,6 @@
+
+![This is an image](Header - GitHub.jpg)
+
 Hello everyone! Welcome to my GitHub-profile! :)
 
 - 👋 Hi, I’m @Asheline, also known as Sofie.

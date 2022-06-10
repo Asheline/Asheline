@@ -1,5 +1,5 @@
 
-![This is an image](Header - GitHub.jpg)
+![This is an image](Header - GitHub.jpg](https://github.com/Asheline/Asheline/blob/main/Header%20-%20GitHub.jpg)
 
 Hello everyone! Welcome to my GitHub-profile! :)
 

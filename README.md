@@ -10,7 +10,7 @@ I'm an **Artist**, **Web Designer** and a **Developer**.
 
 # My Experience
 
-As a relatively new  developer, I began learning how to code back in 2020. Since then, I've gained experience in **C**, **C#**, **C++**, **JavaScript** and **ThreeJs**. 
+As a relatively new  developer, I began learning how to code back in 2020. Since then, I've gained experience in **C**, **C#**, **C++**, **HTML**, **CSS**, **JavaScript** and **ThreeJs**. 
 
 I'm always looking for more ways to improve myself on my developing journey.
 

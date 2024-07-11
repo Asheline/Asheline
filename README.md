@@ -5,12 +5,12 @@
 My name is **Sofie Väisänen**, also known as **Asheline** or **Demiample**.
 I'm an **Artist**, **Web Designer** and a **Developer**.
 -   👀  I’m interested in coding, designing, and learning new coding languages.
--   🌱  I’m currently learning threejs, JavaScript. A 3D-Map project is what I'm currently working on.
+-   🌱  I’m currently learning Vue. I'm working on a centralized server, that receives data from Azure Event Hub.
 
 
 # My Experience
 
-As a relatively new  developer, I began learning how to code back in 2020. Since then, I've gained experience in **C**, **C#**, **C++**, **HTML**, **CSS**, **JavaScript** and **ThreeJs**. 
+As a relatively new  developer, I began learning how to code back in 2020. Since then, I've gained experience in **C**, **C#**, **C++**, **HTML**, **CSS**, **JavaScript** and **Kotlin**. 
 
 I'm always looking for more ways to improve myself on my developing journey.
 

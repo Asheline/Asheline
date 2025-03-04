@@ -1,5 +1,5 @@
 
-![[Header - GitHub](https://github.com/user-attachments/assets/94f3e7d0-16dc-4b1e-a8c0-5da48dda3fd4)
+![Header - GitHub](https://github.com/user-attachments/assets/94f3e7d0-16dc-4b1e-a8c0-5da48dda3fd4)
 
 # Hi! Welcome to my GitHub-profile! 
 My name is **Sofie**, also known as **Asheline** or **Demiample**.

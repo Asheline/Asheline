@@ -16,6 +16,8 @@ I am particularly interested in web programming, focusing mainly on the Front En
 
 My thesis projet was about [Vue Centralized Server](https://github.com/Lapland-Robotics/AI.R-Autonomous_Platform/tree/ba6f06b6a53d13bb08f5384db375decd1f2d864a/iot-dashboard).
 
+Here is my [LinkedIn](https://fi.linkedin.com/in/sofie-v%C3%A4is%C3%A4nen-987506181)-profile.
+
 I'm always looking for more ways to improve myself on my developing journey.
 
 ## Interests

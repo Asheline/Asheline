@@ -2,7 +2,7 @@
 ![](https://github.com/Asheline/Asheline/blob/main/Header%20-%20GitHub.jpg)
 
 # Hi! Welcome to my GitHub-profile! 
-My name is **Sofie**, also known as **Asheline**.
+My name is **Sofie**, also known as **Asheline** or **Demiample**.
 I'm an **Artist**, **Web Designer** and a **Developer**.
 -   👀  I’m interested in coding, designing, and learning new coding languages.
 -   🌱  I’m currently working as an annotator.
@@ -20,7 +20,7 @@ I'm always looking for more ways to improve myself on my developing journey.
 
 As a child, I have always made art to brighten people's days. These days I use my **graphic design skills** to design logos, websites and models. Demonstrations of my artwork can be found on [DeviantArt](https://www.deviantart.com/demiample).
 
-
+I'm also interested in streaming video games, so if you want to meet me there go check my [Twitch](https://www.twitch.tv/asheline_) channel. 
 
 <!---
 Asheline/Asheline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,15 +2,17 @@
 ![](https://github.com/Asheline/Asheline/blob/main/Header%20-%20GitHub.jpg)
 
 # Hi! Welcome to my GitHub-profile! 
-My name is **Sofie Väisänen**, also known as **Asheline** or **Demiample**.
+My name is **Sofie**, also known as **Asheline**.
 I'm an **Artist**, **Web Designer** and a **Developer**.
 -   👀  I’m interested in coding, designing, and learning new coding languages.
--   🌱  I’m currently learning Vue. I'm working on a centralized server, that receives data from Azure Event Hub.
+-   🌱  I’m currently working as an annotator.
 
 
 # My Experience
 
-As a relatively new  developer, I began learning how to code back in 2020. Since then, I've gained experience in **C**, **C#**, **C++**, **HTML**, **CSS**, **JavaScript** and **Kotlin**. 
+I began learning how to code back in 2020 when I started studying to become a developer. Since then, I've gained experience in **C**, **C#**, **C++**, **HTML**, **CSS**, **JavaScript** and **Kotlin**. I have also learned how to use the **Vue** framework and worked as an annotator on the [Roadview project](https://roadview-project.eu/).
+
+I am particularly interested in web programming, focusing mainly on the Front End side.
 
 I'm always looking for more ways to improve myself on my developing journey.
 

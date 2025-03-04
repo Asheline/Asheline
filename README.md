@@ -14,6 +14,8 @@ I began learning how to code back in 2020 when I started studying to become a de
 
 I am particularly interested in web programming, focusing mainly on the Front End side.
 
+My thesis projet was about [Vue Centralized Server](https://github.com/Lapland-Robotics/AI.R-Autonomous_Platform/tree/ba6f06b6a53d13bb08f5384db375decd1f2d864a/iot-dashboard).
+
 I'm always looking for more ways to improve myself on my developing journey.
 
 ## Interests
